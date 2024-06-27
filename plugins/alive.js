@@ -24,7 +24,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
           title: "البوت يعمل الأن",
           body: "JITOSSA  BOT",
           thumbnailUrl: img,
-          sourceUrl: 'https://chat.whatsapp.com/HcXWPVjjVkY5JIw88Xokg5',
+          sourceUrl: 'https://www.instagram.com/gtx_33_ys?igsh=bG4xZDVmaGp5am03',
           mediaType: 1,
           renderLargerThumbnail: true
           }}
